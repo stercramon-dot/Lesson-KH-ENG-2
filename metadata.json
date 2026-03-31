@@ -1,0 +1,7 @@
+{
+  "name": "AI lesson 2",
+  "description": "A high-end AI powered video script and voiceover generator with deep thinking capabilities, real-time search, and multimodal image analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
